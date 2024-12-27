@@ -1,4 +1,12 @@
-## Oii! Eu sou o Gust e estou estudando programação.
+Sobre Mim
+👋 Olá! Sou GustAdryan, um estudante apaixonado por tecnologia e desenvolvimento web. Já tenho conhecimentos em HTML, CSS e JavaScript, e estou constantemente aprendendo novas habilidades para aprimorar meus projetos.
+Projetos: Desenvolvi diversos pequenos projetos que me ajudaram a consolidar meus conhecimentos em front-end.
+
+Objetivo
+Estou em busca de oportunidades para aplicar e expandir minhas habilidades de desenvolvimento, contribuindo para projetos interessantes e colaborando com outros desenvolvedores.
+
+Contato
+📧 Email: seu-email@example.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gust-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
