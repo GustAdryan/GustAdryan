@@ -6,7 +6,7 @@ Objetivo
 Estou em busca de oportunidades para aplicar e expandir minhas habilidades de desenvolvimento, contribuindo para projetos interessantes e colaborando com outros desenvolvedores.
 
 Contato
-📧 Email: seu-email@example.com
+📧 Email: acaladodesousa@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gust-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
